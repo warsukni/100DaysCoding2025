@@ -1,4 +1,6 @@
-public static void main(String[] args) {
+public class Warsukn3 {
+
+    public static void main(String[] args) {
         //penggunaan println
         // println digunakan untuk mencetak teks lalu berpindah ke baris baru
         System.out.println("Nama: warsukni");
@@ -15,5 +17,7 @@ public static void main(String[] args) {
         System.out.printf("Nama:%s %nUmur:%d %nProdi%s", "warsukni",18,"Informatika");
         System.out.println("");
  }
- 
+ }
+    
+
     
