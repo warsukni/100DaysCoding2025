@@ -8,8 +8,8 @@ public class day16 {
         System.out.print("Masukkan angka: ");
         byte no2 = in.nextByte();
         System.out.println();
-        System.out.println("Nilai perkalian = "+(no1+no2));
-        System.out.println("Nilai pembagian = "+(no1-no2));
+        System.out.println("Nilai perkalian = "+(no1*no2));
+        System.out.println("Nilai pembagian = "+(no1/no2));
     }
     
 }
