@@ -7,7 +7,6 @@ public class DAY17 {
         System.out.print("masukkan angka kedua");
         int angka2 = input.nextInt();
         
-        int hasil = angka1 % angka2;
         int sisa  = angka1 % angka2;
         System.out.println("sisa bagi dari" + angka1 + " % " + angka2 + " = " + sisa);
         
